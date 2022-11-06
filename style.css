@@ -133,7 +133,6 @@ body{
   width: 100%;
   transform: translate(-50%, -50%);
   z-index: 3;
-  background: red;
 }
 .popup-box, .popup-box .popup{
   opacity: 0;
